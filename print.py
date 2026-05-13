@@ -1,0 +1,6 @@
+print("hi my name is naysha")
+print(2)
+print("hello",3)
+print("hello \n")
+print("welcome to",end="*")
+print("codingal")
